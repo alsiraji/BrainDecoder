@@ -33,16 +33,10 @@ pip install torch torchvision numpy scikit-image
 
 ## Usage
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/brain-decoder.git
-    cd brain-decoder
-    ```
-
-2. **Download the datasets**:
+1. **Download the datasets**:
     Place the downloaded datasets (`subj03_images.npy` and `fmri_decoder_subj03rhV3.pth`) in the project directory.
 
-3. **Run the notebook**:
+2. **Run the notebook**:
     Open and run the Jupyter Notebook `BrainDecoder_Subj03-RH.ipynb` to reproduce the results.
 
 ## Results
